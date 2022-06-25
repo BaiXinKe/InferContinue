@@ -1,0 +1,2 @@
+# InferContinue
+golang practical
